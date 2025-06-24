@@ -14,5 +14,9 @@ let config = {
 
 let localTracks = {
     audioTracks: null,
+    videoTracks: null
+}
+
+let remoteTracks = {
     
 }
