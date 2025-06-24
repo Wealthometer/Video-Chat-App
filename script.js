@@ -20,6 +20,6 @@ let localTracks = {
 let remoteTracks = {};
 
 document.getElementById('join-btn').addEventListener('click', () => {
-    console.log("User Jined Stream");
+    console.log("User Jined Stream")
 })
 
